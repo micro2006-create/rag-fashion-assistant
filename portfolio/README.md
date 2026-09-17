@@ -26,7 +26,7 @@
 
 系统启动后的问答界面：
 
-![初始页面](images/01_initial.png)
+![初始页面](https://cdn.jsdelivr.net/gh/micro2006-create/rag-fashion-assistant@main/portfolio/images/01_initial.png)
 
 ### 2. 测试问题一：颜色推荐
 
@@ -34,7 +34,7 @@
 
 **系统行为**：Agent 从颜色选择知识库中检索相关内容，基于检索结果给出夏天颜色推荐建议。
 
-![颜色推荐问答](images/02_question_color.png)
+![颜色推荐问答](https://cdn.jsdelivr.net/gh/micro2006-create/rag-fashion-assistant@main/portfolio/images/02_question_color.png)
 
 ### 3. 测试问题二：洗涤养护
 
@@ -42,7 +42,7 @@
 
 **系统行为**：Agent 从洗涤养护知识库中检索相关内容，给出衣物洗涤与养护的具体建议。
 
-![洗涤养护问答](images/03_question_wash.png)
+![洗涤养护问答](https://cdn.jsdelivr.net/gh/micro2006-create/rag-fashion-assistant@main/portfolio/images/03_question_wash.png)
 
 ### 4. 测试问题三：尺码推荐
 
@@ -50,7 +50,7 @@
 
 **系统行为**：Agent 从尺码推荐知识库中检索匹配信息，根据身高体重给出 L/XL 尺码推荐。
 
-![尺码推荐问答](images/04_question_size.png)
+![尺码推荐问答](https://cdn.jsdelivr.net/gh/micro2006-create/rag-fashion-assistant@main/portfolio/images/04_question_size.png)
 
 ## 技术架构
 
